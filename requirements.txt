@@ -1,0 +1,8 @@
+beautifulsoup4==4.8.2
+certifi==2019.11.28
+Django==2.2.5
+djangorestframework==3.11.0
+pytz==2019.3
+soupsieve==1.9.5
+sqlparse==0.3.0
+wincertstore==0.2
